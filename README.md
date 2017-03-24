@@ -1,3 +1,7 @@
+This is public Starcounter's repo for your questions and feedback.
+
+Have a question or want to file a bug? Create an issue here: https://github.com/Starcounter/Starcounter/issues/new
+
 # Starcounter
 
 Starcounter makes creating sexy and fast line-of-business application a breeze by collapsing the stack.
