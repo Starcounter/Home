@@ -1,6 +1,6 @@
 __This is public Starcounter's repo for your questions and feedback.__
 
-Have a question that is not covered in our docs here: https://docs.starcounter.io, or want to file a bug?
+Have a question that is not covered in our docs here: https://docs.starcounter.io, or want to file a bug?  
 Create an issue here: https://github.com/Starcounter/Starcounter/issues/new.
 
 # Starcounter
