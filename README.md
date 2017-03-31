@@ -3,15 +3,7 @@ __This is Starcounter's public repo for your questions and feedback.__
 Have a question that is not covered in our docs here: https://docs.starcounter.io, or want to file a bug?  
 Create an issue here: https://github.com/Starcounter/Starcounter/issues/new.
 
-# Starcounter
-
-Starcounter makes creating sexy and fast line-of-business application a breeze by collapsing the stack.
-
-Starcounter removes the boundaries between primary and secondary memory (getting rid of application to database glue code) and allows server side view models (getting rid of the need for service API design and MVC client/server to client glue code).
-
-This Starcounter is a fused ACID memory centric database engine and C# VM. 
-
-This repository is reserved for the public Starcounter bits.
+To read about what starcounter is, go to the description [here](https://docs.starcounter.io/starcounter/).
 
 ## Developer Samples
 
