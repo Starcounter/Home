@@ -1,7 +1,7 @@
 __This is Starcounter's public repo for your questions and feedback.__
 
 Have a question that is not covered in our docs here: https://docs.starcounter.io, or want to file a bug?  
-Create an issue here: https://github.com/Starcounter/Starcounter/issues/new.
+Create an issue here: https://github.com/Starcounter/Home/issues/new.
 
 To read about what starcounter is, go to the description [here](https://docs.starcounter.io/starcounter/).
 
@@ -26,8 +26,8 @@ To read about what starcounter is, go to the description [here](https://docs.sta
 
 ## More information
 
-* [Report an issue](https://github.com/Starcounter/Starcounter/issues/new)
-* [Ask a question](https://github.com/Starcounter/Starcounter/issues/new)
+* [Report an issue](https://github.com/Starcounter/Home/issues/new)
+* [Ask a question](https://github.com/Starcounter/Home/issues/new)
 * [Read the docs](https://docs.starcounter.io) 
 * [Starcounter home page](http://www.starcounter.com)
 * [Contributors home page](http://starcounter.io) 
