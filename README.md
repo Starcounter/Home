@@ -1,6 +1,6 @@
 __This is Starcounter's public repo for your questions and feedback.__
 
-Create an issue in [this](https://github.com/Starcounter/Home/issues/new) issue tracker if you have a question that is not covered in our [docs](https://docs.starcounter.io) or want to file a bug.
+Create an issue in [the issue tracker](https://github.com/Starcounter/Home/issues/new) if you have a question that is not covered in our [docs](https://docs.starcounter.io) or want to file a bug.
 
 # Starcounter
 
