@@ -1,17 +1,12 @@
 __This is Starcounter's public repo for your questions and feedback.__
 
-Have a question that is not covered in our docs here: https://docs.starcounter.io, or want to file a bug?  
-Create an issue here: https://github.com/Starcounter/Home/issues/new.
+Create an issue in [this](https://github.com/Starcounter/Home/issues/new) issue tracker if you have a question that is not covered in our [docs](https://docs.starcounter.io) or want to file a bug.
 
 # Starcounter
 
-Starcounter makes creating sexy and fast line-of-business application a breeze by collapsing the stack.
+Starcounter is a fused ACID memory centric database engine and C# VM that makes it easy to create fast line-of-business applications by merging primary and secondary memory and using server side view-models.
 
-Starcounter removes the boundaries between primary and secondary memory (getting rid of application to database glue code) and allows server side view models (getting rid of the need for service API design and MVC client/server to client glue code).
-
-This Starcounter is a fused ACID memory centric database engine and C# VM. 
-
-To read about what starcounter is, go to the description [here](https://docs.starcounter.io/starcounter/).
+Read more about Starcounter in the [docs](https://docs.starcounter.io/starcounter/).
 
 ## Developer Samples
 
@@ -39,5 +34,3 @@ To read about what starcounter is, go to the description [here](https://docs.sta
 * [Read the docs](https://docs.starcounter.io) 
 * [Starcounter home page](https://www.starcounter.com)
 * [Contributors home page](https://starcounter.io) 
-
-[![Join the chat at https://gitter.im/Starcounter/Starcounter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/starcounter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
