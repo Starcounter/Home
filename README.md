@@ -11,7 +11,7 @@ Read more about Starcounter in the [docs](https://docs.starcounter.io/starcounte
 ## Developer Samples
 
 * [HelloWorld Tutorial](https://docs.starcounter.io/tutorial/) - Tutorial that introduces the fundamental features of Starcounter.
-* [StarcounterApps](https://github.com/search?q=topic%3Aapp+org%3AStarcounter&type=Repositories) - All repositories that serve as Starcounter demo apps
+* [StarcounterApps](https://github.com/search?q=topic%3Aapp+org%3AStarcounter&type=Repositories) - All repositories that serve as Starcounter demo apps.
 * [Simplified](https://github.com/Starcounter/Simplified) - Simplified data model used by all demo apps.
 * [KitchenSink](https://github.com/Starcounter/KitchenSink/) - Shows how to model different UI patterns in JSON.
 * [SignIn](https://github.com/Starcounter/SignIn) - Authenticate users with a username and password.
