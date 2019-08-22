@@ -11,18 +11,6 @@ Read more about Starcounter in the [docs](https://docs.starcounter.io/starcounte
 ## Developer Samples
 
 * [HelloWorld Tutorial](https://docs.starcounter.io/tutorial/) - Tutorial that introduces the fundamental features of Starcounter.
-* [StarcounterApps](https://github.com/search?q=topic%3Aapp+org%3AStarcounter&type=Repositories) - All repositories that serve as Starcounter demo apps.
-* [Simplified](https://github.com/Starcounter/Simplified) - Simplified data model used by all demo apps.
-* [KitchenSink](https://github.com/Starcounter/KitchenSink/) - Shows how to model different UI patterns in JSON.
-* [SignIn](https://github.com/Starcounter/SignIn) - Authenticate users with a username and password.
-* [UserAdmin](https://github.com/Starcounter/UserAdmin) - Sample user administration.
-* [People](https://github.com/Starcounter/People) - Sample address book.
-* [Products](https://github.com/Starcounter/Products) - Sample product information management.
-* [Images](https://github.com/Starcounter/Images) - Sample micro app that can put an image on anything.
-* [Barcodes](https://github.com/Starcounter/Barcodes) - Sample micro app that can put a barcode on anything.
-* [Chatter](https://github.com/Starcounter/Chatter) - Sample app to chat about anything.
-* [Launcher](https://github.com/Starcounter/Launcher) - A launcher is an app that gives a common UI feeling to multiple apps running simultaneously.
-* [LogStreamer](https://github.com/Starcounter/LogStreamer) - This is a sample log streamer application for Starcounter.
 
 ## Download installer
 * [Windows](http://starcounter.io/download/)
